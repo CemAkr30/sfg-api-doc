@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb://root:example@localhost:2727/sfg/?authSource=admin&authMechanism=DEFAULT
+
